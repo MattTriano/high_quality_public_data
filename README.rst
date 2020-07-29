@@ -10,15 +10,8 @@ If a link is broken, feel free to update the link, or if you can't find a good r
 
 .. contents:: **Table of Contents**
 
-COVID-19 Data
--------------
-
-* |OK_ICON| `Chicago COVID-19 Dashboard <https://chi.gov/coviddash>`_
-
-* |OK_ICON| `Reproductive Coefficient (R_t) Dashboard <https://rt.live/>`_
-
-US City Data Portals
---------------------
+City Data Portals (US)
+----------------------
 
 * |OK_ICON| `Austin, TX <https://data.austintexas.gov/>`_
 
@@ -62,12 +55,26 @@ US City Data Portals
 
 * |OK_ICON| `St. Louis, MO <https://www.stlouis-mo.gov/data/>`_
 
-US Crime
---------
+COVID-19 Data
+-------------
+
+* |OK_ICON| `Chicago COVID-19 Dashboard <https://chi.gov/coviddash>`_
+
+* |OK_ICON| `Johns Hopkins COVID-19 Data <https://github.com/CSSEGISandData/COVID-19>`_
+
+* |OK_ICON| `Reproductive Coefficient (R_t) Dashboard <https://rt.live/>`_
+
+Crime
+-----
 
 * |OK_ICON| `Jacksonville (FL) Sheriff's Office <https://transparency.jaxsheriff.org/>`_
 
 * |OK_ICON| `Violent Crime data FOIA'd and hosted by The Trace <https://www.thetrace.org/violent-crime-data/>`_
+
+Policing
+--------
+
+* |OK_ICON| `Fatal Encounters (a database of police-involved deaths built by journalists and researchers mainly from news articles) <https://fatalencounters.org/>`_
 
 Transit
 -------
