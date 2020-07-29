@@ -71,6 +71,11 @@ Crime
 
 * |OK_ICON| `Violent Crime data FOIA'd and hosted by The Trace <https://www.thetrace.org/violent-crime-data/>`_
 
+FOIA
+----
+
+* |OK_ICON| `Muckrock (results for many prior FOIA requests are available for download) <https://www.muckrock.com/>`_
+
 Policing
 --------
 
