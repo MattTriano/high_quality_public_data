@@ -1,8 +1,10 @@
 Excellent Public Data Sources
 =============================
 
-.. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
-.. |FIXME_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png
+.. |OK_ICON| image:: https://raw.githubusercontent.com/MattTriano/high_quality_public_data/master/images/ok-24.png
+.. |FIXME_ICON| image:: https://raw.githubusercontent.com/MattTriano/high_quality_public_data/master/images/fixme-24.png
+.. |DATA_VIZ_ICON| image:: https://raw.githubusercontent.com/MattTriano/high_quality_public_data/master/images/data_viz_color-24.png
+
 
 This repo seeks to catalog high quality public data sources and specific tables or groups of tables that are (potentially) relevant to significant problems or phenomena.
 
