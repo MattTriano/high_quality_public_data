@@ -60,9 +60,12 @@ COVID-19 Data
 
 * |OK_ICON| `Chicago COVID-19 Dashboard <https://chi.gov/coviddash>`_
 
+* |OK_ICON| `Excess Mortality Data (aggregated by The Economist) <https://github.com/TheEconomist/covid-19-excess-deaths-tracker>`_
+
 * |OK_ICON| `Johns Hopkins COVID-19 Data <https://github.com/CSSEGISandData/COVID-19>`_
 
 * |OK_ICON| `Reproductive Coefficient (R_t) Dashboard <https://rt.live/>`_
+
 
 Crime
 -----
@@ -75,6 +78,14 @@ FOIA
 ----
 
 * |OK_ICON| `Muckrock (results for many prior FOIA requests are available for download) <https://www.muckrock.com/>`_
+
+Health and Mortality
+--------------------
+
+* |OK_ICON| `Center for Disease Control Data Portal <https://data.cdc.gov/browse>`_
+
+* |OK_ICON| `Excess Mortality Dashboard (for EU Countries) <https://www.euromomo.eu/graphs-and-maps/>`_
+
 
 Policing
 --------
